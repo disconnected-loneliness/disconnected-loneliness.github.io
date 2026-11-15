@@ -4,19 +4,19 @@ lang: en
 permalink: /en/about/
 alt: /over/
 ---
-Loneliness is common among young adults aged 18 to 26. This generation grew up with smartphones and social media, and now also talks to AI chatbots. Technology can connect people, but it can also replace contact. In Disconnected we study loneliness in young adults at the cognitive, behavioural, and neural level. Technology is both a context that may affect loneliness and an instrument for studying it.
+Disconnected studies loneliness among young adults aged 18 to 26 and the role of technology, which can both increase and reduce feelings of loneliness. The project examines loneliness at the cognitive, behavioural, and neural level. Technology is both a context that may affect loneliness and an instrument for studying it.
 
 Disconnected is a collaboration between TU Delft and Amsterdam UMC, with partners from practice. The project runs from 2024 to 2029 and is funded by NWO through the Loneliness programme of the Dutch Research Agenda (NWA), project number NWA.1572.21.012, Grant ID [https://doi.org/10.61686/QWHDT95661](https://doi.org/10.61686/QWHDT95661).
 
 ## Lines of research
 
-**Technology and loneliness** (Bianca Sutcliffe, TU Delft). How do people and AI models recognise loneliness in text, and the moment when someone's feelings change? In a large online experiment, readers indicated when a character's state changed. These measurements serve as a human reference for AI models reading the same texts.
+**Technology and loneliness** (Bianca Sutcliffe, TU Delft). How do people and AI models recognise loneliness in text, and the moment when someone's feelings change? This line compares what people and AI models infer about emotional states from language, to understand what AI does and does not pick up about how someone feels.
 
-**Cognitive and emotional mechanisms** (Jenna Pfeifer, TU Delft). What do young adults look at in social situations, how do they judge emotional images, and how does this relate to loneliness? Jenna uses eye tracking, large online studies, and a workshop method in which participants use generative AI to make a picture of loneliness.
+**Cognitive and emotional mechanisms** (Jenna Pfeifer, TU Delft). What do young adults look at in social situations, how do they judge emotional images, and how does this relate to loneliness? This line studies the cognitive and emotional processes involved in loneliness, and how loneliness, which carries a taboo, can be made easier to discuss.
 
-**Neuroscience of technology use** (Daphne Boucherie, Amsterdam UMC). Can loneliness be predicted from functional connectivity, the relations in activity between brain regions? The first analyses use public data from the Human Connectome Project.
+**Neuroscience of technology use** (Daphne Boucherie, Amsterdam UMC). How is loneliness related to the functioning of the brain, and what role does technology use play? This line uses MRI, with both existing public datasets and new measurements.
 
-**Joint longitudinal study** (Daphne Boucherie and Jenna Pfeifer). A screening study with about 250 young adults measures loneliness, technology use, and how social information is perceived. Forty participants are then followed for about a year, with three MRI sessions. The study is in preparation.
+**Joint longitudinal study** (Daphne Boucherie and Jenna Pfeifer). The cognitive and the neuroscience line come together in a study that follows young adults for about a year, with questionnaires, behavioural tasks, and brain scans. It examines how loneliness and its relation to the brain develop over time. The study is in preparation.
 
 ## How we work
 

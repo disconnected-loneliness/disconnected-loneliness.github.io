@@ -1,18 +1,18 @@
 ---
-title: "Afstudeeronderzoek: waar kijken mensen naar als ze eenzaamheid inschatten?"
+title: "MSc-scriptie over visuele aandacht en het inschatten van eenzaamheid"
 date: 2026-08-28
 lang: nl
-summary: "Baraah Baryhe studeerde af met een eye-trackingstudie naar hoe mensen beoordelen of iemand op een foto eenzaam is."
+summary: "Baraah Baryhe studeerde af op een eye-trackingstudie naar hoe mensen de eenzaamheid van een persoon in een beeld inschatten."
 image: /assets/img/news/2026-08-28-thesis-heatmap.jpg
 thumb: /assets/img/news/2026-08-28-thesis-heatmap-thumb.jpg
 image_alt: "Een vrouw zit alleen op een bank terwijl vier anderen samen naar een telefoon kijken; gekleurde vlekken geven aan waar deelnemers keken"
-image_caption: "Een van de beelden uit het onderzoek, met daaroverheen waar deelnemers keken."
+image_caption: "Een van de beelden uit de studie, met een heatmap van waar deelnemers keken."
 alt: /en/news/2026/msc-thesis-baraah-baryhe/
 ---
-Op 28 augustus 2026 studeerde Baraah Baryhe af aan de TU Delft, in de master Biomedical Engineering, op een onderzoek binnen Disconnected.
+Op 28 augustus 2026 studeerde Baraah Baryhe af aan de TU Delft, in de master Biomedical Engineering, op een scriptie binnen Disconnected.
 
-Baraah onderzocht waar mensen naar kijken als zij inschatten hoe eenzaam iemand op een foto is. In haar studie beoordeelden 54 deelnemers 102 AI-gegenereerde beelden van zes alledaagse situaties, terwijl een eye-tracker hun oogbewegingen registreerde. Tussen de varianten van een beeld verschilde steeds één ding, zoals de gezichtsuitdrukking, het weer, de voorwerpen in beeld of de aanwezigheid van andere mensen.
+In haar studie beoordeelden 54 deelnemers hoe eenzaam een persoon op de voorgrond leek in 102 AI-gegenereerde beelden, terwijl een eye-tracker hun blik registreerde. De beelden toonden zes alledaagse scènes, elk in varianten die verschilden in gezichtsuitdrukking, weer, voorwerpen, achtergrond of sociale context.
 
-De gezichtsuitdrukking had de meeste invloed op het oordeel. Voorwerpen en een drukke achtergrond leidden de blik af van het gezicht, maar veranderden het oordeel over eenzaamheid niet.
+De gezichtsuitdrukking had de meeste invloed op het oordeel over eenzaamheid. Voorwerpen en drukke achtergronden verminderden de blik op het gezicht van de persoon, zonder een overeenkomstige verandering in de waargenomen eenzaamheid.
 
-De scriptie staat in de [repository van de TU Delft](https://resolver.tudelft.nl/uuid:11cec5f1-aa32-44dd-a968-9be4e0083f8b).
+De scriptie is beschikbaar in de [repository van de TU Delft](https://resolver.tudelft.nl/uuid:11cec5f1-aa32-44dd-a968-9be4e0083f8b).

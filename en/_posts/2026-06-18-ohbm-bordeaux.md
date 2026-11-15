@@ -6,7 +6,7 @@ summary: "Daphne Boucherie presented a poster on loneliness and functional conne
 image: /assets/img/news/2026-06-18-ohbm-method.jpg
 thumb: /assets/img/news/2026-06-18-ohbm-method-thumb.jpg
 image_alt: "Diagram of the analysis: from brain scans to a matrix of relations between brain regions, and from there to a model that predicts loneliness scores"
-image_caption: "The method in steps. From the scans, the strength of the relations between brain regions is computed for each participant. A model built on part of the participants then predicts the loneliness scores of the others. Figure: Daphne Boucherie."
+image_caption: "The analysis method, connectome-based predictive modelling: connectivity between brain regions is computed from the scans, and a model built on part of the participants predicts the loneliness scores of the others. Figure: Daphne Boucherie."
 permalink: /en/news/2026/ohbm-bordeaux/
 alt: /nieuws/2026/ohbm-bordeaux/
 ---

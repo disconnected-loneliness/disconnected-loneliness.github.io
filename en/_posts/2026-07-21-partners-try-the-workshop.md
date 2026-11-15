@@ -1,11 +1,11 @@
 ---
-title: "Partners try the workshop themselves"
+title: "Expert sessions with 8D, NVO, and NewHealth"
 date: 2026-07-21
 lang: en
-summary: "At 8D, NVO, and NewHealth, people did the workshop with AI images themselves and discussed where such a workshop fits in their work."
+summary: "In June and July 2026, three partners did a shortened version of the workshop and discussed its use in their own practice."
 permalink: /en/news/2026/partners-try-the-workshop/
 alt: /nieuws/2026/partners-proberen-workshop/
 ---
-In June and July 2026 the team visited three partners of the project: 8D in Leeuwarden, NVO in Utrecht, and NewHealth in Utrecht. In each session, those present did a short version of the [workshop with AI images]({{ '/en/news/2026/workshops-picturing-loneliness/' | relative_url }}) themselves. They then discussed where such a workshop would fit in their own work.
+In June and July 2026 the team held expert sessions with three partners: 8D in Leeuwarden (11 June), NVO in Utrecht (30 June), and NewHealth in Utrecht (21 July). In each session the partner did a shortened version of the [workshop]({{ '/en/news/2026/workshops-picturing-loneliness/' | relative_url }}) and then discussed possible uses, limitations, and risks for their own practice.
 
-The partners saw uses with clients who find it hard to put their feelings into words, in psychoeducation, and in exploring a current and a desired situation together. Talking about an imaginary person makes it easier to share something, they noted, although the exercise can still bring up emotions.
+The partners mentioned uses with clients who find it hard to put feelings into words, in psychoeducation, and in exploring a current and a desired situation together. They noted that talking about a fictional person makes it easier to share something, although the exercise can still bring up emotions.

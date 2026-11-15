@@ -1,10 +1,10 @@
 ---
-title: "Partners proberen de workshop zelf uit"
+title: "Expertsessies met 8D, de NVO en NewHealth"
 date: 2026-07-21
 lang: nl
-summary: "Bij 8D, de NVO en NewHealth deden mensen zelf de workshop met AI-beelden en bespraken zij waar zo'n workshop in hun werk past."
+summary: "In juni en juli 2026 deden drie partners een verkorte versie van de workshop en bespraken zij het gebruik in hun eigen praktijk."
 alt: /en/news/2026/partners-try-the-workshop/
 ---
-In juni en juli 2026 bezocht het team drie partners van het project: 8D in Leeuwarden, de NVO in Utrecht en NewHealth in Utrecht. In elke sessie deden de aanwezigen zelf een korte versie van de [workshop met AI-beelden]({{ '/nieuws/2026/workshops-eenzaamheid-in-beeld/' | relative_url }}). Daarna bespraken zij waar zo'n workshop in hun eigen werk zou passen.
+In juni en juli 2026 hield het team expertsessies met drie partners: 8D in Leeuwarden (11 juni), de NVO in Utrecht (30 juni) en NewHealth in Utrecht (21 juli). In elke sessie deed de partner een verkorte versie van de [workshop]({{ '/nieuws/2026/workshops-eenzaamheid-in-beeld/' | relative_url }}) en besprak daarna mogelijke toepassingen, beperkingen en risico's voor de eigen praktijk.
 
-De partners zagen toepassingen bij cliënten die moeilijk woorden vinden voor wat ze voelen, in psycho-educatie, en bij het samen verkennen van een huidige en een gewenste situatie. Praten over een denkbeeldig persoon maakt het makkelijker om iets te delen, merkten zij op, al kan de oefening nog steeds emoties oproepen.
+De partners noemden toepassingen bij cliënten die moeilijk woorden vinden voor wat ze voelen, in psycho-educatie, en bij het samen verkennen van een huidige en een gewenste situatie. Zij merkten op dat praten over een fictief persoon het makkelijker maakt om iets te delen, al kan de oefening nog steeds emoties oproepen.
