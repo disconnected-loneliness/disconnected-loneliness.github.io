@@ -13,6 +13,6 @@ Op 28 augustus 2026 studeerde Baraah Baryhe af aan de TU Delft, in de master Bio
 
 In haar studie beoordeelden 54 deelnemers hoe eenzaam een persoon op de voorgrond leek in 102 AI-gegenereerde beelden, terwijl een eye-tracker hun blik registreerde. De beelden toonden zes alledaagse scènes, elk in varianten die verschilden in gezichtsuitdrukking, weer, voorwerpen, achtergrond of sociale context.
 
-De gezichtsuitdrukking had de meeste invloed op het oordeel over eenzaamheid. Voorwerpen en drukke achtergronden verminderden de blik op het gezicht van de persoon, zonder een overeenkomstige verandering in de waargenomen eenzaamheid.
+De gezichtsuitdrukking had de meeste invloed op het oordeel over eenzaamheid. Bij voorwerpen en drukke achtergronden keken deelnemers minder naar het gezicht van de persoon, zonder dat het oordeel over eenzaamheid veranderde.
 
 De scriptie is beschikbaar in de [repository van de TU Delft](https://resolver.tudelft.nl/uuid:11cec5f1-aa32-44dd-a968-9be4e0083f8b).

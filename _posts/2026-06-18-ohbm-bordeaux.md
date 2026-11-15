@@ -11,7 +11,7 @@ alt: /en/news/2026/ohbm-bordeaux/
 ---
 Daphne Boucherie presenteerde in juni 2026 een poster op het congres van de Organization for Human Brain Mapping (OHBM) in Bordeaux.
 
-De poster ging over de vraag of eenzaamheid te voorspellen is uit functionele connectiviteit: de mate waarin de activiteit van hersengebieden met elkaar samenhangt. De analyses zijn gedaan op openbare data van het Human Connectome Project.
+De poster ging over de vraag of eenzaamheid te voorspellen is uit functionele connectiviteit: de mate waarin de activiteit van hersengebieden met elkaar samenhangt. De analyses maken gebruik van openbare data van het Human Connectome Project.
 
 Een eerdere analyse, met 88 jongvolwassenen van 22 tot 25 jaar, liet geen significant voorspellend verband zien tussen functionele connectiviteit en eenzaamheid. Voor de poster is de analyse uitgebreid naar 264 deelnemers, met zowel scans in rust als scans tijdens taken.
 

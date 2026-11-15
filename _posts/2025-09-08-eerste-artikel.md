@@ -10,7 +10,7 @@ alt: /en/news/2025/first-article/
 ---
 Het eerste artikel uit Disconnected, met Jenna Pfeifer als eerste auteur, is verschenen in *Personality and Individual Differences*. De studie onderzocht of eenzaamheid samenhangt met aandacht voor beelden van sociale afwijzing of uitsluiting. Een gangbare hypothese is dat eenzaamheid samengaat met verhoogde waakzaamheid voor sociale dreiging.
 
-In de studie bekeken 241 jongvolwassenen steeds vier beelden tegelijk, terwijl een eye-tracker hun oogbewegingen registreerde. De beelden waren met AI gegenereerd en waren sociaal of niet-sociaal, en positief of negatief.
+In de studie bekeken 241 jongvolwassenen steeds vier beelden tegelijk, terwijl een eye-tracker hun oogbewegingen registreerde. De beelden waren met AI gegenereerd en waren sociaal of niet-sociaal en positief of negatief.
 
 Er is geen significant verband gevonden tussen eenzaamheid en aandacht voor sociaal bedreigende beelden. Dat wijst erop dat verhoogde waakzaamheid voor sociale dreiging mogelijk geen kenmerk is van eenzaamheid bij jongvolwassenen zonder klinische klachten. De auteurs bevelen vervolgonderzoek aan bij zeer eenzame personen.
 

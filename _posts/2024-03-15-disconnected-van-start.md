@@ -8,4 +8,4 @@ alt: /en/news/2024/disconnected-starts/
 ---
 Disconnected is op 15 maart 2024 gestart. Het project onderzoekt eenzaamheid bij jongvolwassenen van 18 tot 26 jaar en de rol van technologie, die gevoelens van eenzaamheid zowel kan versterken als verminderen.
 
-TU Delft en Amsterdam UMC voeren het project uit, samen met partners uit de praktijk. Het loopt tot 2029 en wordt gefinancierd door NWO binnen het programma Eenzaamheid van de Nationale Wetenschapsagenda (NWA).
+De TU Delft en Amsterdam UMC voeren het project uit, samen met partners uit de praktijk. Het loopt tot 2029 en wordt gefinancierd door NWO binnen het programma Eenzaamheid van de Nationale Wetenschapsagenda (NWA).

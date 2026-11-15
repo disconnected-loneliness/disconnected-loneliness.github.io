@@ -2,13 +2,13 @@ nl:
   home: /
   news: /nieuws/
   latest: Nieuws
-  all_news: Alle nieuws
+  all_news: Al het nieuws
   read_more: Lees verder
   back: Terug naar het nieuws
   other_lang: English
   months: [januari, februari, maart, april, mei, juni, juli, augustus, september, oktober, november, december]
   funding: >-
-    Disconnected is een samenwerking van TU Delft en Amsterdam UMC en wordt gefinancierd door NWO
+    Disconnected is een samenwerking tussen de TU Delft en Amsterdam UMC en wordt gefinancierd door NWO
     binnen het programma Eenzaamheid van de Nationale Wetenschapsagenda (NWA), projectnummer NWA.1572.21.012.
   nav:
     - {title: Onderzoek, url: /over/}

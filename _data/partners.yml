@@ -25,8 +25,8 @@
   url: https://www.newhealth.nl/
   group: cooperation
   text:
-    nl: Helpt mensen mentaal fit te blijven met digitale hulpmiddelen, zoals online zelfhulpprogramma's, en een team van psychologen.
-    en: Helps people stay mentally fit with digital tools, such as online self-help programmes, and a team of psychologists.
+    nl: NewHealth helpt mensen mentaal fit te blijven met digitale hulpmiddelen, zoals online zelfhulpprogramma's, en met een team van psychologen.
+    en: NewHealth helps people stay mentally fit with digital tools, such as online self-help programmes, and with a team of psychologists.
 - name: 8D
   logo: 8d.jpg
   url: https://8d.nl/
@@ -41,18 +41,18 @@
   text:
     nl: De Landelijke Studentenvakbond behartigt de belangen van studenten in het hbo en wo.
     en: The Dutch Student Union represents the interests of students in higher professional education and at universities.
-- name: Psychologen TU Delft
+- name: Psychologen van de TU Delft
   name_en: TU Delft psychologists
   logo: tudelft-psychologen.jpg
   url: https://www.tudelft.nl/studenten/mijn-studie-ik/begeleiding/psychologen
   group: tudelft
   text:
-    nl: Bieden studenten en promovendi kortdurende individuele begeleiding, workshops en trainingen, en ontwikkelen activiteiten gericht op preventie.
-    en: Offer students and PhD candidates short-term individual counselling, workshops, and training, and develop activities aimed at prevention.
+    nl: De psychologen bieden studenten en promovendi kortdurende individuele begeleiding, workshops en trainingen, en ontwikkelen activiteiten gericht op preventie.
+    en: The psychologists offer students and PhD candidates short-term individual counselling, workshops, and training, and develop activities aimed at prevention.
 - name: Study Climate
   logo: studyclimate.jpg
   url: https://www.tudelft.nl/studyclimate
   group: tudelft
   text:
-    nl: TU Delft-breed programma gericht op studiesucces, persoonlijke ontwikkeling en welzijn van studenten.
+    nl: Programma van de TU Delft gericht op studiesucces, persoonlijke ontwikkeling en welzijn van studenten.
     en: TU Delft-wide programme aimed at students' achievement, personal development, and welfare.
