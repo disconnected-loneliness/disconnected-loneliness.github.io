@@ -16,7 +16,7 @@ Disconnected is een samenwerking tussen de TU Delft en Amsterdam UMC, met partne
 
 **Neurowetenschap van technologiegebruik** (Daphne Boucherie, Amsterdam UMC). Hoe hangen technologiegebruik en eenzaamheid samen met de structuur en activiteit van het brein? Deze lijn combineert analyses van bestaande grote MRI-datasets met nieuwe metingen.
 
-**Gezamenlijke longitudinale studie** (Daphne Boucherie en Jenna Pfeifer). De lijnen komen samen in een studie waarin jongvolwassenen ongeveer een jaar worden gevolgd, met vragenlijsten, gedragstaken en hersenscans.
+**Gezamenlijke longitudinale studie** (Daphne Boucherie en Jenna Pfeifer). De cognitieve en de neurowetenschappelijke lijn werken samen aan een studie die gedragsmetingen en hersenscans combineert. Een screeningsstudie onder jongvolwassenen brengt in kaart hoe zij sociale informatie waarnemen en interpreteren. Een kleinere groep wordt daarna ongeveer een jaar gevolgd met herhaalde MRI-metingen, om na te gaan hoe stabiel de samenhang tussen eenzaamheid en het brein is.
 
 **Opschaling en impact** (projectteam en partners). Wat betekenen de resultaten voor onderwijs, zorg, technologieontwikkeling en beleid? In deze lijn brengen we de resultaten van de andere lijnen samen en bespreken we de betekenis ervan met de partners en andere betrokkenen.
 
