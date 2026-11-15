@@ -1,9 +1,10 @@
 {% assign items = site.data.partners | where: "group", include.group %}
 <div class="partners">
   {% for p in items %}
+  {% assign pname = p.name %}{% if page.lang == "en" and p.name_en %}{% assign pname = p.name_en %}{% endif %}
   <a class="partner" href="{{ p.url }}">
-    <span class="partner-logo"><img src="{{ '/assets/img/logos/' | append: p.logo | relative_url }}" alt="{{ p.name }}" loading="lazy"></span>
-    <span class="partner-name">{{ p.name }}</span>
+    <span class="partner-logo"><img src="{{ '/assets/img/logos/' | append: p.logo | relative_url }}" alt="{{ pname }}" loading="lazy"></span>
+    <span class="partner-name">{{ pname }}</span>
     <span class="partner-text">{{ p.text[page.lang] }}</span>
   </a>
   {% endfor %}

@@ -2,6 +2,7 @@
 title: "Expert sessions with 8D, NVO, and NewHealth"
 date: 2026-07-21
 lang: en
+thumb: /assets/img/news/2026-07-21-partner-logos-thumb.jpg
 summary: "In June and July 2026, three partners did a shortened version of the workshop and discussed its use in their own practice."
 permalink: /en/news/2026/partners-try-the-workshop/
 alt: /nieuws/2026/partners-proberen-workshop/

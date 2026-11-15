@@ -2,6 +2,7 @@
 title: "Presentatie op de LDE-conferentie Governance of Migration and Diversity"
 date: 2024-11-13
 lang: nl
+thumb: /assets/img/news/2024-11-13-lde-gmd-logo-thumb.jpg
 summary: "Jenna Pfeifer en Dimitra Dodou presenteerden het project op de jaarlijkse conferentie van het LDE Centre Governance of Migration and Diversity in Leiden."
 alt: /en/news/2024/presentation-lde-gmd-conference/
 ---

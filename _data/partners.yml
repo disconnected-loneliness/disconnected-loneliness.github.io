@@ -25,15 +25,15 @@
   url: https://www.newhealth.nl/
   group: cooperation
   text:
-    nl: Online programma's voor mentaal welzijn, met modules over onder meer stress, piekeren en slapen.
-    en: Online programmes for mental wellbeing, with modules on stress, worrying, and sleep, among other topics.
+    nl: Helpt mensen mentaal fit te blijven met digitale hulpmiddelen, zoals online zelfhulpprogramma's, en een team van psychologen.
+    en: Helps people stay mentally fit with digital tools, such as online self-help programmes, and a team of psychologists.
 - name: 8D
   logo: 8d.jpg
   url: https://8d.nl/
   group: cooperation
   text:
-    nl: Ontwerpbureau in Leeuwarden. Ontwerpt interventies in co-creatie met eindgebruikers, zonder zich vast te leggen op één vorm.
-    en: Design studio in Leeuwarden. Designs interventions in co-creation with end users, without committing to a single form.
+    nl: Ontwerpbureau in Leeuwarden dat op basis van onderzoek interventies ontwerpt, in co-creatie met eindgebruikers.
+    en: Design studio in Leeuwarden that designs research-based interventions in co-creation with end users.
 - name: LSVb
   logo: lsvb.jpg
   url: https://lsvb.nl/
@@ -41,13 +41,14 @@
   text:
     nl: De Landelijke Studentenvakbond behartigt de belangen van studenten in het hbo en wo.
     en: The Dutch Student Union represents the interests of students in higher professional education and at universities.
-- name: Studentpsychologen TU Delft
+- name: Psychologen TU Delft
+  name_en: TU Delft psychologists
   logo: tudelft-psychologen.jpg
   url: https://www.tudelft.nl/studenten/mijn-studie-ik/begeleiding/psychologen
   group: tudelft
   text:
-    nl: Psychologen en preventiepsychologen die studenten van TU Delft ondersteunen.
-    en: Psychologists and preventive psychologists supporting TU Delft students.
+    nl: Bieden studenten en promovendi kortdurende individuele begeleiding, workshops en trainingen, en ontwikkelen activiteiten gericht op preventie.
+    en: Offer students and PhD candidates short-term individual counselling, workshops, and training, and develop activities aimed at prevention.
 - name: Study Climate
   logo: studyclimate.jpg
   url: https://www.tudelft.nl/studyclimate

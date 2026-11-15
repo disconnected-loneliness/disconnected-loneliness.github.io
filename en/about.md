@@ -16,7 +16,7 @@ Disconnected is a collaboration between TU Delft and Amsterdam UMC, with partner
 
 **Neuroscience of technology use** (Daphne Boucherie, Amsterdam UMC). How is loneliness related to the functioning of the brain, and what role does technology use play? This line uses MRI, with both existing public datasets and new measurements.
 
-**Joint longitudinal study** (Daphne Boucherie and Jenna Pfeifer). The cognitive and the neuroscience line come together in a study that follows young adults for about a year, with questionnaires, behavioural tasks, and brain scans. It examines how loneliness and its relation to the brain develop over time. The study is in preparation.
+**Joint longitudinal study** (Daphne Boucherie and Jenna Pfeifer). The cognitive and the neuroscience line come together in a study that follows young adults for about a year, with questionnaires, behavioural tasks, and brain scans. It examines how loneliness and its relation to the brain develop over time.
 
 ## How we work
 
@@ -24,4 +24,4 @@ Disconnected is a collaboration between TU Delft and Amsterdam UMC, with partner
 
 **Open.** We make articles, data, code, and preregistrations public. See the [publications]({{ '/en/publications/' | relative_url }}).
 
-**With practice.** We work with NVO, NewHealth, 8D, LSVb, and the student psychologists of TU Delft. See the [partners]({{ '/en/partners/' | relative_url }}).
+**With practice.** We work with NVO, NewHealth, 8D, LSVb, and the TU Delft psychologists. See the [partners]({{ '/en/partners/' | relative_url }}).
