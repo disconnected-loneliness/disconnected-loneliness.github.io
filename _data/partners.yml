@@ -1,0 +1,57 @@
+# group: research, cooperation, or tudelft
+- name: TU Delft
+  logo: tudelft.jpg
+  url: https://www.tudelft.nl
+  group: research
+  text:
+    nl: Faculteit Werktuigbouwkunde, afdelingen BioMechanical Engineering en Cognitive Robotics.
+    en: Faculty of Mechanical Engineering, departments of BioMechanical Engineering and Cognitive Robotics.
+- name: Amsterdam UMC
+  logo: amsterdamumc.jpg
+  url: https://www.amsterdamumc.org
+  group: research
+  text:
+    nl: Afdeling Radiologie en Nucleaire Geneeskunde.
+    en: Department of Radiology and Nuclear Medicine.
+- name: NVO
+  logo: nvo.jpg
+  url: https://www.nvo.nl/
+  group: cooperation
+  text:
+    nl: De beroepsvereniging voor pedagogen en onderwijskundigen. De leden werken onder meer in het onderwijs, de jeugdhulp, de ggz en de gehandicaptenzorg.
+    en: The Dutch professional association for pedagogues and educationalists. Its members work in education, youth care, mental health care, and disability care, among other fields.
+- name: NewHealth
+  logo: newhealth.jpg
+  url: https://www.newhealth.nl/
+  group: cooperation
+  text:
+    nl: Online programma's voor mentaal welzijn, met modules over onder meer stress, piekeren en slapen.
+    en: Online programmes for mental wellbeing, with modules on stress, worrying, and sleep, among other topics.
+- name: 8D
+  logo: 8d.jpg
+  url: https://8d.nl/
+  group: cooperation
+  text:
+    nl: Ontwerpbureau in Leeuwarden. Ontwerpt interventies in co-creatie met eindgebruikers, zonder zich vast te leggen op één vorm.
+    en: Design studio in Leeuwarden. Designs interventions in co-creation with end users, without committing to a single form.
+- name: LSVb
+  logo: lsvb.jpg
+  url: https://lsvb.nl/
+  group: cooperation
+  text:
+    nl: De Landelijke Studentenvakbond behartigt de belangen van studenten in het hbo en wo.
+    en: The Dutch Student Union represents the interests of students in higher professional education and at universities.
+- name: Studentpsychologen TU Delft
+  logo: tudelft-psychologen.jpg
+  url: https://www.tudelft.nl/studenten/mijn-studie-ik/begeleiding/psychologen
+  group: tudelft
+  text:
+    nl: Psychologen en preventiepsychologen die studenten van TU Delft ondersteunen.
+    en: Psychologists and preventive psychologists supporting TU Delft students.
+- name: Study Climate
+  logo: studyclimate.jpg
+  url: https://www.tudelft.nl/studyclimate
+  group: tudelft
+  text:
+    nl: Programma van TU Delft voor studentenwelzijn.
+    en: TU Delft programme for student wellbeing.

@@ -1,0 +1,19 @@
+title: Disconnected
+lang: nl
+url: ""
+baseurl: ""
+grant_id: https://doi.org/10.61686/QWHDT95661
+markdown: kramdown
+permalink: /nieuws/:year/:title/
+exclude:
+  - README.md
+  - _template-nieuwsbericht.md
+defaults:
+  - scope: {path: "", type: posts}
+    values: {layout: post, lang: nl}
+  - scope: {path: "en", type: posts}
+    values: {layout: post, lang: en, permalink: "/en/news/:year/:title/"}
+  - scope: {path: "", type: pages}
+    values: {layout: page, lang: nl}
+  - scope: {path: "en", type: pages}
+    values: {layout: page, lang: en}

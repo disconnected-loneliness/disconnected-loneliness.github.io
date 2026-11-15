@@ -1,0 +1,10 @@
+{% assign people = site.data.team | where: "group", include.group %}
+<div class="people">
+  {% for p in people %}
+  <a class="person" href="{{ p.url }}">
+    <img src="{{ '/assets/img/team/' | append: p.photo | relative_url }}" alt="{{ p.name }}" loading="lazy">
+    <span class="person-name">{{ p.name }}</span>
+    <span class="person-role">{{ p.role[page.lang] }}<br>{{ p.org }}</span>
+  </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,32 @@
+{% assign t = site.data.i18n[page.lang] %}
+{% assign posts = site.posts | where: "lang", page.lang %}
+<section class="hero">
+  <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt }}">
+</section>
+
+<section class="band band-a">
+  <div class="wrap narrow center">
+    <h1>{{ page.hero_title }}</h1>
+    <p class="lead">{{ page.intro_text }}</p>
+    <a class="button" href="{{ page.intro_link | relative_url }}">{{ page.intro_button }}</a>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <h2>{{ t.latest }}</h2>
+    <div class="cards">
+      {% assign n = 0 %}
+      {% for post in posts %}{% if post.image and n < 3 %}{% include card.html post=post %}{% assign n = n | plus: 1 %}{% endif %}{% endfor %}
+    </div>
+    <p class="center"><a class="button" href="{{ t.news | relative_url }}">{{ t.all_news }}</a></p>
+  </div>
+</section>
+
+<section class="band band-b">
+  <div class="wrap narrow center">
+    <h2>{{ page.open_title }}</h2>
+    <p class="lead">{{ page.open_text }}</p>
+    <a class="button" href="{{ page.open_link | relative_url }}">{{ page.open_button }}</a>
+  </div>
+</section>

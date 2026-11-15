@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% assign t = site.data.i18n[page.lang] %}
+<article class="page post">
+  <p class="meta">{% include date.html date=page.date month_only=page.month_only %}</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.image %}
+  <figure class="post-image{% if page.image_narrow %} narrow-image{% endif %}">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
+    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+  {{ content }}
+  <p class="back"><a href="{{ t.news | relative_url }}">&larr; {{ t.back }}</a></p>
+</article>

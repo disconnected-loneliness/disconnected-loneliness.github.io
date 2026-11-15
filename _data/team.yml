@@ -1,0 +1,49 @@
+# Order here = order on the site. group: researchers, tudelft, or amc.
+- name: Bianca Sutcliffe, MSc
+  photo: sutcliffe.jpg
+  group: researchers
+  role: {nl: Promovenda, en: PhD researcher}
+  org: TU Delft
+  url: https://www.tudelft.nl/staff/b.m.sutcliffe/
+- name: Jenna Pfeifer, MSc
+  photo: pfeifer.jpg
+  group: researchers
+  role: {nl: Promovenda, en: PhD researcher}
+  org: TU Delft
+  url: https://www.tudelft.nl/staff/j.pfeifer/
+- name: Dr. Daphne Boucherie
+  photo: boucherie.jpg
+  group: researchers
+  role: {nl: Postdoc, en: Postdoctoral researcher}
+  org: Amsterdam UMC
+  url: https://www.amsterdamumc.org/en/research/researchers/daphne-boucherie
+- name: Prof. dr. ir. Joost de Winter
+  photo: dewinter.jpg
+  group: tudelft
+  role: {nl: Cognitive Robotics, en: Cognitive Robotics}
+  org: TU Delft
+  url: https://www.tudelft.nl/staff/j.c.f.dewinter/
+- name: Dr. ir. Yke Bauke Eisma
+  photo: eisma.jpg
+  group: tudelft
+  role: {nl: Cognitive Robotics, en: Cognitive Robotics}
+  org: TU Delft
+  url: https://www.tudelft.nl/staff/y.b.eisma/
+- name: Dr. Dimitra Dodou
+  photo: dodou.jpg
+  group: tudelft
+  role: {nl: BioMechanical Engineering, en: BioMechanical Engineering}
+  org: TU Delft
+  url: https://www.tudelft.nl/staff/d.dodou/
+- name: Prof. dr. ir. Aart Nederveen
+  photo: nederveen.jpg
+  group: amc
+  role: {nl: Radiologie en Nucleaire Geneeskunde, en: Radiology and Nuclear Medicine}
+  org: Amsterdam UMC
+  url: https://www.amsterdamumc.org/en/research/researchers/aart-nederveen-1
+- name: Dr. Anouk Schrantee
+  photo: schrantee.jpg
+  group: amc
+  role: {nl: Radiologie en Nucleaire Geneeskunde, en: Radiology and Nuclear Medicine}
+  org: Amsterdam UMC
+  url: https://www.amsterdamumc.org/en/research/researchers/anouk-schrantee

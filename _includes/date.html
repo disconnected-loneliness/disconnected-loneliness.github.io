@@ -1,0 +1,1 @@
+{% assign m = include.date | date: "%-m" | minus: 1 %}{% unless include.month_only %}{{ include.date | date: "%-d" }} {% endunless %}{{ site.data.i18n[page.lang].months[m] }} {{ include.date | date: "%Y" }}

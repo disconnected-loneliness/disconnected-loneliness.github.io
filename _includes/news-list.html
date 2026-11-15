@@ -1,0 +1,20 @@
+{% assign posts = site.posts | where: "lang", page.lang %}
+<section class="band">
+  <div class="wrap news-wrap">
+    <h1>{{ page.title }}</h1>
+    <ul class="news">
+      {% for post in posts %}
+      <li>
+        <a class="news-item" href="{{ post.url | relative_url }}">
+          <span class="news-body">
+            <span class="meta">{% include date.html date=post.date month_only=post.month_only %}</span>
+            <span class="card-title">{{ post.title }}</span>
+            <span class="card-text">{{ post.summary }}</span>
+          </span>
+          {% if post.image or post.thumb %}<img src="{{ post.thumb | default: post.image | relative_url }}" alt="" loading="lazy">{% endif %}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

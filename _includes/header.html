@@ -1,0 +1,12 @@
+{% assign t = site.data.i18n[page.lang] %}
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="wordmark" href="{{ t.home | relative_url }}"><img src="{{ '/assets/img/logo/logo.svg' | relative_url }}" alt="Disconnected" width="153" height="20"></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Menu">
+    <label for="nav-toggle" class="nav-button"><span></span></label>
+    <nav class="site-nav">
+      {% for item in t.nav %}<a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}
+      {% if page.alt %}<a class="lang" href="{{ page.alt | relative_url }}" lang="{% if page.lang == 'nl' %}en{% else %}nl{% endif %}">{{ t.other_lang }}</a>{% endif %}
+    </nav>
+  </div>
+</header>
