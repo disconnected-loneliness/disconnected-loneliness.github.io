@@ -3,7 +3,7 @@ title: "Workshops: eenzaamheid in beeld brengen met AI"
 date: 2026-06-03
 lang: nl
 summary: "In drie workshops maakten deelnemers met een AI-beeldgenerator een beeld van eenzaamheid, als startpunt voor een gesprek."
-image: /assets/img/news/workshop-crowd.jpg
+image: /assets/img/news/2026-06-03-workshop-image.jpg
 image_alt: "AI-gegenereerd beeld van een drukke winkelstraat waarin één persoon met een capuchon tussen lachende voorbijgangers loopt"
 image_caption: "Beeld uit een van de workshops. De deelnemer beschreef iemand die in een groep niet wordt opgemerkt."
 alt: /en/news/2026/workshops-picturing-loneliness/

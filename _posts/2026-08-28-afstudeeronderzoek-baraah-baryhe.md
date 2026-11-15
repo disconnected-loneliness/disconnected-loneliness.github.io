@@ -3,8 +3,8 @@ title: "Afstudeeronderzoek: waar kijken mensen naar als ze eenzaamheid inschatte
 date: 2026-08-28
 lang: nl
 summary: "Baraah Baryhe studeerde af met een eye-trackingstudie naar hoe mensen beoordelen of iemand op een foto eenzaam is."
-image: /assets/img/news/thesis-heatmap.jpg
-thumb: /assets/img/news/thesis-heatmap-thumb.jpg
+image: /assets/img/news/2026-08-28-thesis-heatmap.jpg
+thumb: /assets/img/news/2026-08-28-thesis-heatmap-thumb.jpg
 image_alt: "Een vrouw zit alleen op een bank terwijl vier anderen samen naar een telefoon kijken; gekleurde vlekken geven aan waar deelnemers keken"
 image_caption: "Een van de beelden uit het onderzoek, met daaroverheen waar deelnemers keken."
 alt: /en/news/2026/msc-thesis-baraah-baryhe/

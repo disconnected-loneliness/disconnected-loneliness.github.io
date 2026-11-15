@@ -3,8 +3,8 @@ title: "MSc thesis: where do people look when they judge loneliness?"
 date: 2026-08-28
 lang: en
 summary: "Baraah Baryhe graduated with an eye-tracking study of how people judge whether someone in a photo is lonely."
-image: /assets/img/news/thesis-heatmap.jpg
-thumb: /assets/img/news/thesis-heatmap-thumb.jpg
+image: /assets/img/news/2026-08-28-thesis-heatmap.jpg
+thumb: /assets/img/news/2026-08-28-thesis-heatmap-thumb.jpg
 image_alt: "A woman sits alone on a sofa while four others look at a phone together; coloured patches show where participants looked"
 image_caption: "One of the images from the study, overlaid with where participants looked."
 permalink: /en/news/2026/msc-thesis-baraah-baryhe/

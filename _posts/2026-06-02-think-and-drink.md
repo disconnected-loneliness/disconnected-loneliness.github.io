@@ -3,8 +3,8 @@ title: "Think & Drink: AI, van studiemaatje tot soulmate"
 date: 2026-06-02
 lang: nl
 summary: "Bianca Sutcliffe en Jenna Pfeifer spraken bij Studium Generale over de band die mensen aangaan met AI-chatbots."
-image: /assets/img/news/studium-generale-1.jpg
-image_alt: "Bianca Sutcliffe en Jenna Pfeifer voor een scherm met de vraag of we een menselijke band met chatbots kunnen vormen"
+image: /assets/img/news/2026-06-02-think-and-drink-2.jpg
+image_alt: "Bianca Sutcliffe en Jenna Pfeifer staan naast een statafel in een zaal met oranje stoelen"
 image_caption: "Bianca Sutcliffe en Jenna Pfeifer bij Think & Drink in de TU Delft Library."
 alt: /en/news/2026/think-and-drink/
 ---

@@ -3,7 +3,7 @@ title: "First article: loneliness and attention to social threat"
 date: 2025-09-08
 lang: en
 summary: "Do young adults who feel lonely look more at images of social threat? An eye-tracking study did not find that link."
-image: /assets/img/news/eyetracking-figure.jpg
+image: /assets/img/news/2025-09-08-eye-tracking-figure.jpg
 image_alt: "Four photos in a grid, overlaid with the eye movements of a participant"
 image_caption: "Four AI-generated photos with the eye movements of a participant. From: Pfeifer et al. (2025)."
 permalink: /en/news/2025/first-article/

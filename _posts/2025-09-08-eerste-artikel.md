@@ -3,7 +3,7 @@ title: "Eerste artikel: eenzaamheid en aandacht voor sociale dreiging"
 date: 2025-09-08
 lang: nl
 summary: "Kijken jongvolwassenen die zich eenzaam voelen meer naar beelden van sociale dreiging? In een eye-trackingstudie vonden we dat verband niet."
-image: /assets/img/news/eyetracking-figure.jpg
+image: /assets/img/news/2025-09-08-eye-tracking-figure.jpg
 image_alt: "Vier foto’s in een raster met de oogbewegingen van een deelnemer eroverheen"
 image_caption: "Vier AI-gegenereerde foto’s met de oogbewegingen van een deelnemer. Uit: Pfeifer et al. (2025)."
 alt: /en/news/2025/first-article/

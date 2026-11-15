@@ -3,7 +3,7 @@ title: "Poster op het symposium AI and the Future of Mental Healthcare"
 date: 2026-07-03
 lang: nl
 summary: "Jenna Pfeifer presenteerde de workshop met AI-beelden op een symposium over AI in de geestelijke gezondheidszorg, in Delft."
-image: /assets/img/news/symposium-poster.jpg
+image: /assets/img/news/2026-07-03-symposium-poster.jpg
 image_alt: "Jenna Pfeifer naast haar poster over synthetische foto-elicitatie"
 image_caption: "Jenna Pfeifer bij haar poster in de Aula van de TU Delft."
 alt: /en/news/2026/poster-symposium-ai-mental-healthcare/

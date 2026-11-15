@@ -3,8 +3,8 @@ title: "Preprint: two ways of measuring the emotional content of images"
 date: 2026-03-06
 lang: en
 summary: "Giving a rating on a scale or choosing between two images: in a study with over 3,000 participants, both methods gave nearly the same outcome."
-image: /assets/img/news/likert-task.jpg
-thumb: /assets/img/news/likert-task-thumb.jpg
+image: /assets/img/news/2026-03-06-likert-task.jpg
+thumb: /assets/img/news/2026-03-06-likert-task-thumb.jpg
 image_alt: "Screen of the study with two images side by side: three laughing young people at a table, and a heap of scrap metal"
 image_caption: "One of the choices participants made: which of the two images is more positive? Left: an AI-generated image. Right: an image from the public OASIS set."
 permalink: /en/news/2026/two-ways-of-rating-images/
@@ -15,7 +15,7 @@ Research on emotion often uses images for which it is known how positive or nega
 Jenna Pfeifer compared the two methods for the same 74 images, in four online samples with 3,119 participants in total. The scores from the two methods agreed closely, and both showed the same well-known pattern: neutral images are experienced as low in intensity, and images are experienced as more intense the more positive or negative they are. The choices between two images did separate social from non-social images more clearly.
 
 <figure class="post-image">
-  <img src="{{ '/assets/img/news/likert-forced-choice.jpg' | relative_url }}" alt="Two scatter plots of 74 images, with valence on the horizontal axis and intensity on the vertical axis; in both, the points form a V">
+  <img src="{{ '/assets/img/news/2026-03-06-likert-results.jpg' | relative_url }}" alt="Two scatter plots of 74 images, with valence on the horizontal axis and intensity on the vertical axis; in both, the points form a V">
   <figcaption>Each point is an image. Left: scores from ratings on a scale. Right: scores from choices between two images. In both, neutral images (grey) are the least intense.</figcaption>
 </figure>
 

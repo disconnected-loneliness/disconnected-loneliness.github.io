@@ -3,8 +3,8 @@ title: "Delegatie van het Reinier de Graaf ziekenhuis op bezoek"
 date: 2026-09-22
 lang: nl
 summary: "Een delegatie van het Reinier de Graaf ziekenhuis in Delft bezocht ons lab aan de TU Delft."
-image: /assets/img/news/lab-visit.jpg
-thumb: /assets/img/news/lab-visit-thumb.jpg
+image: /assets/img/news/2026-09-22-reinier-de-graaf.jpg
+thumb: /assets/img/news/2026-09-22-reinier-de-graaf-thumb.jpg
 image_alt: "Bezoekers kijken in het lab naar een demonstratie op een groot scherm; links een robotarm"
 image_caption: "Demonstratie in het lab tijdens het bezoek."
 alt: /en/news/2026/reinier-de-graaf-visit/

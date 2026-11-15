@@ -13,7 +13,7 @@ Website of the Disconnected project (NWA.1572.21.012). It is a Jekyll site: GitH
 
 1. Copy `_template-nieuwsbericht.md` into `_posts/` and name it `YYYY-MM-DD-short-title.md`.
 2. Fill in the title, date, and summary at the top, and write the text below the second `---`.
-3. For a photo, put the file in `assets/img/news/` and refer to it in the `image` line. Photos of about 1600 pixels wide work well.
+3. For a photo, put the file in `assets/img/news/` and refer to it in the `image` line. Name it after the post, for example `2026-06-02-think-and-drink-1.jpg`. Use the original photo where possible, at least 2000 pixels wide, so it stays sharp on high-resolution screens.
    A post without a photo is fine: delete the three `image` lines. The home page shows the three most recent posts that have a photo.
 4. For the English version, do the same in `en/_posts/`, and add the `permalink` and `alt` lines as in the existing English posts. The `alt` line links the Dutch and English versions to each other.
 

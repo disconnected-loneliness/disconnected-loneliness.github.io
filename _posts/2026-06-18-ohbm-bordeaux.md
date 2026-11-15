@@ -3,8 +3,8 @@ title: "Poster op OHBM 2026 in Bordeaux"
 date: 2026-06-18
 lang: nl
 summary: "Daphne Boucherie presenteerde een poster over eenzaamheid en functionele connectiviteit op het congres van de Organization for Human Brain Mapping."
-image: /assets/img/news/ohbm-method.jpg
-thumb: /assets/img/news/ohbm-thumb.jpg
+image: /assets/img/news/2026-06-18-ohbm-method.jpg
+thumb: /assets/img/news/2026-06-18-ohbm-method-thumb.jpg
 image_alt: "Schema van de analyse: van hersenscans naar een matrix van verbanden tussen hersengebieden, en van daaruit naar een model dat eenzaamheidsscores voorspelt"
 image_caption: "De methode in stappen. Uit de scans wordt per deelnemer berekend hoe sterk de activiteit van hersengebieden samenhangt. Een model dat op een deel van de deelnemers is gebouwd, voorspelt daarna de eenzaamheidsscore van de anderen. Figuur: Daphne Boucherie."
 alt: /en/news/2026/ohbm-bordeaux/

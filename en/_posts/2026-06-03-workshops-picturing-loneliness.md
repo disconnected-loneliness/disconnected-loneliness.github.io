@@ -3,7 +3,7 @@ title: "Workshops: picturing loneliness with AI"
 date: 2026-06-03
 lang: en
 summary: "In three workshops, participants used an AI image generator to make a picture of loneliness, as the starting point for a conversation."
-image: /assets/img/news/workshop-crowd.jpg
+image: /assets/img/news/2026-06-03-workshop-image.jpg
 image_alt: "AI-generated image of a busy shopping street in which one person in a hood walks among smiling passers-by"
 image_caption: "Image from one of the workshops. The participant described someone who goes unnoticed in a group."
 permalink: /en/news/2026/workshops-picturing-loneliness/

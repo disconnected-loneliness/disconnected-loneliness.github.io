@@ -2,7 +2,7 @@
 title: "Daphne Boucherie start als postdoc"
 date: 2025-08-01
 lang: nl
-thumb: /assets/img/news/daphne-thumb.jpg
+thumb: /assets/img/news/2025-08-01-daphne-boucherie-thumb.jpg
 summary: "Daphne Boucherie is begonnen bij Amsterdam UMC. Zij onderzoekt wat hersenscans over eenzaamheid kunnen zeggen."
 alt: /en/news/2025/daphne-boucherie-starts/
 ---

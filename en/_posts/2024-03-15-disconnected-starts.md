@@ -2,7 +2,7 @@
 title: "Disconnected starts"
 date: 2024-03-15
 lang: en
-thumb: /assets/img/news/start-thumb.jpg
+thumb: /assets/img/news/2024-03-15-start-thumb.jpg
 summary: "The project began on 15 March 2024 and runs until 2029."
 permalink: /en/news/2024/disconnected-starts/
 alt: /nieuws/2024/disconnected-van-start/

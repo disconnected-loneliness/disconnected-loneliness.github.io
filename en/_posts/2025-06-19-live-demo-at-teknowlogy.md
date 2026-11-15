@@ -3,7 +3,7 @@ title: "Live demo at TEKNOWLOGY"
 date: 2025-06-19
 lang: en
 summary: "At NWO's innovation festival, an AI model described live what a camera saw, including the atmosphere and the emotions of the people in view."
-image: /assets/img/news/teknowlogy-demo.jpg
+image: /assets/img/news/2025-06-19-teknowlogy-demo.jpg
 image_alt: "Screen showing camera footage of visitors, overlaid with the description by the AI model"
 image_caption: "The live demo at TEKNOWLOGY: the AI model describes what the camera sees."
 permalink: /en/news/2025/live-demo-at-teknowlogy/
