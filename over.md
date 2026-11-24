@@ -4,7 +4,7 @@ lang: nl
 permalink: /over/
 alt: /en/about/
 ---
-Disconnected onderzoekt de relatie tussen technologiegebruik en eenzaamheid bij jongvolwassenen van 18 tot 26 jaar. Technologie kan gevoelens van eenzaamheid versterken, maar ook verminderen. Het project kijkt naar effecten op korte, middellange en lange termijn, en naar het taboe dat op eenzaamheid rust. Uitgangspunt is dat sociale aanwezigheid een sleutelrol speelt: de mate waarin iemand een ander ervaart, van abstracte communicatie via sociale platforms tot persoonlijk contact.
+Disconnected onderzoekt de relatie tussen technologiegebruik en eenzaamheid bij jongvolwassenen van 18 tot 26 jaar. Technologie kan gevoelens van eenzaamheid versterken, maar ook verminderen. Het project kijkt naar effecten op korte, middellange en lange termijn, en naar het taboe dat op eenzaamheid rust. Uitgangspunt is dat sociale aanwezigheid een sleutelrol speelt: de mate waarin iemand de ander als aanwezig ervaart, van abstracte communicatie via sociale platforms tot persoonlijk contact.
 
 Disconnected is een samenwerking tussen de TU Delft en Amsterdam UMC, met partners uit de praktijk. Het project loopt van 2024 tot 2029 en wordt gefinancierd door NWO, binnen het programma Eenzaamheid van de Nationale Wetenschapsagenda (NWA), projectnummer NWA.1572.21.012, Grant ID [https://doi.org/10.61686/QWHDT95661](https://doi.org/10.61686/QWHDT95661).
 
