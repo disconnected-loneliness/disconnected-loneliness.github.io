@@ -1,38 +1,58 @@
 {% assign t = site.data.i18n[page.lang] %}
 {% assign posts = site.posts | where: "lang", page.lang %}
+{% assign data = site.data.publications | where: "type", "dataset" %}
 <section class="hero">
-  <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt }}">
+  {% assign hb = page.hero_image | remove: ".jpg" %}<img src="{{ page.hero_image | relative_url }}" srcset="{{ hb | append: "-1280.jpg" | relative_url }} 1280w, {{ hb | append: "-1920.jpg" | relative_url }} 1920w, {{ page.hero_image | relative_url }} 2400w" sizes="100vw" alt="{{ page.hero_alt }}" fetchpriority="high">
 </section>
 
-<section class="band band-a">
-  <div class="wrap split">
-    <h1>{{ page.hero_title }}</h1>
-    <div>
-      <p class="lead">{{ page.intro_text }}</p>
-      <a class="button" href="{{ page.intro_link | relative_url }}">{{ page.intro_button }}</a>
-    </div>
-  </div>
-</section>
-
-<section class="band">
+<section class="x-open">
   <div class="wrap">
-    <div class="section-head">
-      <h2>{{ t.latest }}</h2>
-      <a class="more" href="{{ t.news | relative_url }}">{{ t.all_news }}</a>
-    </div>
-    <div class="cards">
-      {% assign n = 0 %}
-      {% for post in posts %}{% if post.image and n < 3 %}{% include card.html post=post %}{% assign n = n | plus: 1 %}{% endif %}{% endfor %}
+    <h1 class="x-title">{{ page.hero_title }}</h1>
+    <div class="x-intro">
+      <p>{{ page.intro_text }}</p>
+      <a class="x-link" href="{{ page.intro_link | relative_url }}">{{ page.intro_button }}</a>
     </div>
   </div>
 </section>
 
-<section class="band band-b">
-  <div class="wrap split">
-    <h2>{{ page.open_title }}</h2>
+<section class="x-lines">
+  <div class="wrap"><div class="x-grid">
+    {% for l in page.lines %}{% assign p = site.data.team | where: "photo", l.photo | first %}
+    <a class="x-line" href="{{ page.intro_link | relative_url }}">
+      <img src="{{ '/assets/img/team/' | append: l.photo | relative_url }}" alt="" loading="lazy">
+      <span class="x-line-title">{{ l.title }}</span>
+      <span class="x-line-text">{{ l.text }}</span>
+      <span class="x-line-who">{{ p.name | split: "," | first | remove: "Dr. " }}, {{ p.org }}</span>
+    </a>
+    {% endfor %}
+  </div></div>
+</section>
+
+<section class="x-news">
+  <div class="wrap">
+    <h2>{{ t.latest }}</h2>
+    <ul class="x-list">
+      {% for post in posts limit: 4 %}
+      <li><a href="{{ post.url | relative_url }}">
+        <span class="x-date">{% include date.html date=post.date month_only=post.month_only %}</span>
+        <span class="x-item"><span class="x-item-title">{{ post.title }}</span><span class="x-item-text">{{ post.summary }}</span></span>
+        {% if post.thumb or post.image %}<img src="{{ post.thumb | default: post.image | relative_url }}" alt="" loading="lazy">{% endif %}
+      </a></li>
+      {% endfor %}
+    </ul>
+    <a class="x-link" href="{{ t.news | relative_url }}">{{ t.all_news }}</a>
+  </div>
+</section>
+
+<section class="x-data">
+  <div class="wrap x-data-grid">
     <div>
-      <p class="lead">{{ page.open_text }}</p>
-      <a class="button" href="{{ page.open_link | relative_url }}">{{ page.open_button }}</a>
+      <h2>{{ page.open_title }}</h2>
+      <p>{{ page.open_text }}</p>
+      <a class="x-link" href="{{ page.open_link | relative_url }}">{{ page.open_button }}</a>
     </div>
+    <ul class="x-datasets">
+      {% for d in data %}<li><a href="{{ d.url }}"><span class="x-ds-title">{{ d.title }}</span><span class="x-ds-where">{{ d.venue }}</span></a></li>{% endfor %}
+    </ul>
   </div>
 </section>

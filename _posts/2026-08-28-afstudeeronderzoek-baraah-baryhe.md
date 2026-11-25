@@ -9,7 +9,7 @@ image_alt: "Een vrouw zit alleen op een bank terwijl vier anderen samen naar een
 image_caption: "Een van de beelden uit de studie, met een heatmap van waar deelnemers keken."
 alt: /en/news/2026/msc-thesis-baraah-baryhe/
 ---
-Op 28 augustus 2026 studeerde Baraah Baryhe af aan de TU Delft, in de master Biomedical Engineering, op een scriptie binnen Disconnected.
+Op 28 augustus 2026 studeerde Baraah Baryhe af in de master Biomedical Engineering aan de TU Delft, met een scriptie binnen Disconnected.
 
 In haar studie beoordeelden 54 deelnemers hoe eenzaam een persoon op de voorgrond leek in 102 AI-gegenereerde beelden, terwijl een eye-tracker hun blik registreerde. De beelden toonden zes alledaagse scènes, elk in varianten die verschilden in gezichtsuitdrukking, weer, voorwerpen, achtergrond of sociale context.
 

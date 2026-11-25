@@ -1,26 +1,21 @@
-# Add new items at the top. type: article, review (under review or preprint), thesis, poster, dataset, software, prereg
+# Add new items at the top. type: article, preprint, thesis, poster, dataset, software, prereg
 - type: article
   year: 2025
   authors: Pfeifer, J., De Winter, J. C. F., Dodou, D., & Eisma, Y. B.
   title: "Loneliness, personality, and attention to AI-generated images depicting social threat: An eye tracking study"
   venue: Personality and Individual Differences, 247, 113415
   url: https://doi.org/10.1016/j.paid.2025.113415
-- type: review
+- type: preprint
   year: 2026
   authors: Sutcliffe, B., Eisma, Y. B., Dodou, D., & De Winter, J. C. F.
   title: "Press and hold during paced reading: Tracking affective state without looking away from the text"
-  venue: Preprint
+  venue: ResearchGate
   url: https://doi.org/10.13140/RG.2.2.28898.49602
-- type: review
-  year: 2026
-  authors: Pfeifer, J., Eisma, Y. B., Dodou, D., & De Winter, J. C. F.
-  title: "Synthetic photo-elicitation with text-to-image AI: A workshop method for exploring young-adult loneliness"
-  venue: Under review
-- type: review
+- type: preprint
   year: 2026
   authors: Pfeifer, J., De Winter, J. C. F., Dodou, D., & Eisma, Y. B.
   title: Comparing Likert and forced-choice formats in affective image evaluation
-  venue: Preprint
+  venue: ResearchGate
   url: https://www.researchgate.net/publication/398142707
 - type: thesis
   year: 2026

@@ -10,7 +10,7 @@ image_caption: "One of the images from the study, with a heatmap of where partic
 permalink: /en/news/2026/msc-thesis-baraah-baryhe/
 alt: /nieuws/2026/afstudeeronderzoek-baraah-baryhe/
 ---
-On 28 August 2026 Baraah Baryhe graduated from the MSc Biomedical Engineering at TU Delft with a thesis within Disconnected.
+On 28 August 2026 Baraah Baryhe completed her MSc in Biomedical Engineering at TU Delft with a thesis carried out within Disconnected.
 
 In her study, 54 participants rated how lonely a person in the foreground appeared in 102 AI-generated images, while an eye tracker recorded their gaze. The images showed six everyday scenes, each in variants that differed in facial expression, weather, objects, background, or social context.
 

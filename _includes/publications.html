@@ -1,6 +1,6 @@
 {% assign items = site.data.publications | where: "type", include.type %}
 <ul class="pubs">
   {% for p in items %}
-  <li>{{ p.authors }} ({{ p.year }}). {% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}. <em>{{ p.venue }}</em>.</li>
+  <li>{{ p.authors }} ({{ p.year }}). {% if p.type == "preprint" %}<em>{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</em> [Preprint]. {{ p.venue }}.{% else %}{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}. <em>{{ p.venue }}</em>.{% endif %}</li>
   {% endfor %}
 </ul>

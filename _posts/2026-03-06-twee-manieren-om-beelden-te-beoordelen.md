@@ -6,7 +6,7 @@ summary: "Een studie met 3.119 deelnemers vergeleek Likertbeoordelingen en gedwo
 image: /assets/img/news/2026-03-06-likert-task.jpg
 thumb: /assets/img/news/2026-03-06-likert-task-thumb.jpg
 image_alt: "Scherm van het onderzoek met twee beelden naast elkaar: drie lachende jonge mensen aan een tafel, en een berg schroot"
-image_caption: "Een keuze uit de taak met gedwongen keuze: welk van de twee beelden is positiever? Links een AI-gegenereerd beeld, rechts een beeld uit de OASIS-set."
+image_caption: "Voorbeeld uit de keuzetaak: welk van de twee beelden is positiever? Links een AI-gegenereerd beeld, rechts een beeld uit de OASIS-set."
 alt: /en/news/2026/two-ways-of-rating-images/
 ---
 In emotieonderzoek worden vaak beelden gebruikt waarvan de valentie (hoe positief of negatief een beeld is) en de emotionele intensiteit bekend zijn. Die waarden worden meestal bepaald met beoordelingen op een Likertschaal. Een alternatief is gedwongen keuze (*forced choice*), waarbij deelnemers twee beelden zien en het meest positieve of het meest intense beeld kiezen.

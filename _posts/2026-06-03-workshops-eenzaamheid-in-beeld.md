@@ -4,6 +4,7 @@ date: 2026-06-03
 lang: nl
 summary: "In drie workshops maakten 19 deelnemers met generatieve AI beelden van eenzaamheid, als startpunt voor een groepsgesprek."
 image: /assets/img/news/2026-06-03-workshop-image.jpg
+thumb: /assets/img/news/2026-06-03-workshop-image-thumb.jpg
 image_alt: "AI-gegenereerd beeld van een drukke winkelstraat waarin één persoon met een capuchon tussen lachende voorbijgangers loopt"
 image_caption: "Beeld uit een van de workshops. De prompt beschreef een persoon die in een groep niet wordt opgemerkt."
 alt: /en/news/2026/workshops-picturing-loneliness/

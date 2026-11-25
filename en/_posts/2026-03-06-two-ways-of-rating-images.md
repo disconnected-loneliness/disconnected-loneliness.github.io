@@ -1,5 +1,5 @@
 ---
-title: "Preprint: Likert ratings and forced choice in the evaluation of emotional images"
+title: "Preprint: Likert ratings versus forced choice for evaluating emotional images"
 date: 2026-03-06
 lang: en
 summary: "A study with 3,119 participants compared Likert ratings and forced-choice judgements for the same 74 images."
@@ -12,7 +12,7 @@ alt: /nieuws/2026/twee-manieren-om-beelden-te-beoordelen/
 ---
 Emotion research often uses images with known valence (how positive or negative an image is) and emotional intensity. These values are usually obtained with ratings on a Likert scale. An alternative is forced choice, in which participants see two images and choose the more positive or the more intense one.
 
-Jenna Pfeifer compared the two formats for the same 74 images, in four online samples with 3,119 participants in total. The image scores from the two formats were strongly correlated, and both showed the known pattern in which neutral images are low in intensity and images are more intense the more positive or negative they are. Forced choice separated social from non-social images more clearly.
+Jenna Pfeifer compared the two formats for the same 74 images, in four online samples with 3,119 participants in total. The image scores from the two formats were strongly correlated, and both showed the familiar pattern in which neutral images are low in intensity and images are more intense the more positive or negative they are. Forced choice separated social from non-social images more clearly.
 
 <figure class="post-image">
   <img src="{{ '/assets/img/news/2026-03-06-likert-results.jpg' | relative_url }}" alt="Two scatter plots of 74 images, with valence on the horizontal axis and intensity on the vertical axis; in both, the points form a V">

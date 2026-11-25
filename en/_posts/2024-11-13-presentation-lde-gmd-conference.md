@@ -9,4 +9,4 @@ alt: /nieuws/2024/presentatie-lde-gmd-conferentie/
 ---
 On 13 November 2024 Jenna Pfeifer and Dimitra Dodou presented the project at the [annual conference of the LDE Centre Governance of Migration and Diversity](https://tudelft.nl/en/events/2024/bk/lde-conference-governance-of-migration-and-diversity) in Leiden. LDE is the alliance of the universities of Leiden, Delft, and Rotterdam.
 
-They presented the project's focus, the impact of technology on loneliness among young adults, and its approach. Jenna Pfeifer also outlined her plan to test with eye tracking whether loneliness is related to attention to socially threatening cues.
+They presented the project's focus, the impact of technology on loneliness among young adults, and how it will be studied. Jenna Pfeifer also outlined her plan to use eye tracking to test whether loneliness is related to attention to socially threatening cues.
